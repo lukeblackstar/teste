@@ -1,7 +1,10 @@
-# teste
-<!docstyle>
+#Teste
  <html>
+   <head>
+   </head>
 <body>
-   <p> <a href="https://instagram.com/lukeblackstar"> Instagram </a>
+   <title> my instagram: </title>
+   <br>
+   <button> <a href="https://instagram.com/lukeblackstar"> click here </a> </button>
     </p>
 </body>
